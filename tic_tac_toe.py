@@ -1,6 +1,6 @@
 
 # Functions to print the different boards depending on the level
-test
+
 def board3x3(values):
     
     """
