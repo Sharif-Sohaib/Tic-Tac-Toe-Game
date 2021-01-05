@@ -741,7 +741,7 @@ if __name__ == "__main__":
 
         elif choice == 3:
 
-            print("Final Score")
+            print("Thanks for playing ! Final Score")
 
             scoreboard(score_board)
 
