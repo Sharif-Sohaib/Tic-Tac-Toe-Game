@@ -228,7 +228,7 @@ def winner3x3(player, current_player):
 
     for x in combo:
 
-        if all(y in current_player[player] for y in x):
+        if all(y in player[current_player] for y in x):
 
             # Return True if any winning combination happens
 
