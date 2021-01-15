@@ -721,7 +721,7 @@ if __name__ == "__main__":
 
             print("Wrong Choice! Try Again\n")
 
-        # Stores the winner in a single round of the game
+        # Player’s choice of difficulty (3x3,4x4,5x5)
         
         print("Turn to choose the difficulty for", current_player)
 
