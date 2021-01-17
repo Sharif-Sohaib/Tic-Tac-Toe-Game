@@ -36,6 +36,7 @@ Après chaque mouvement, nous devons vérifier si un joueur a gagné le jeu ou s
 
 
 winner3x3() :  La fonction a toutes les combinaisons gagnantes. Tout ce qu’elle fait est de vérifier si l’une des combinaisons gagnantes est satisfaite par les positions du joueur actuel. Si elle le fait, il retourne True. Si aucune des combinaisons n’est satisfaite, alors la fonction retourne False.
+
 draw3x3() : La condition du “draw” est assez simple, si les  neuf positions sont prises c’est une partie nulle ou un Draw.
 
 # Etape 4: Storage d’information
