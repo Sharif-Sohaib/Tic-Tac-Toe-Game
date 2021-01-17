@@ -16,7 +16,7 @@ The game was made with Python 3.5
 ## Starting the game
 
 The program that contains the game is entitled : morpion.py. You have to download the ZIP file and unzip it and run the program.
-Once the code is run successfully you'll be asked to enter your name and so will the second player. Afterwards, you'll get to choose between the X and O marks or quit if you wish. Finally, you'll have three levels of difficulty to choose from: easy (3x3), medium (4x4) and hard (5x5).After each turn a scoreboard will have each players score displayed and updated according to the results of each turn. You can have as many turns as you wish .
+Once the code is run successfully you'll be asked to enter your name and so will the second player. Afterwards, you'll get to choose between the X and O marks or quit if you wish. Finally, you'll have three levels of difficulty to choose from: easy (3x3), medium (4x4) and hard (5x5).After each turn a scoreboard will have each players score displayed and updated according to the results of each turn. You can have as many turns as you wish until a player chooses to quit.
 
 To have a good experience while playing, it's important that you fully open your terminal after you run the program !
 
