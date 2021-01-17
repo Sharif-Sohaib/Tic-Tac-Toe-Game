@@ -169,7 +169,7 @@ la difficulté choisie, et enregistrer le vainqueur de la partie :
 
 ## 7 - 3 : Mise à jour de l’historique 
 
-Lorsqu’il y a eu un vainqueur (pas d’égalité), on incrémente le score du joueur gagnant et on affiche l’historique :
+Lorsqu’il y a eu un vainqueur (pas de draw), on incrémente le score du joueur gagnant et on affiche l’historique :
 
 ![Capture25](https://user-images.githubusercontent.com/76202628/104844785-78eb6000-58d2-11eb-81d2-c82eb1be964b.PNG)
 
