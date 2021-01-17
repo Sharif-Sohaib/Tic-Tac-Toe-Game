@@ -21,7 +21,8 @@ La table de score est stockée sous forme de dictionnaire, où les clés sont le
 
 Pour afficher la table de score, nous avons besoin des noms des joueurs. Les clés sont extraites à l’aide de la fonction . keys() puis converti en liste, afin qu’il puisse être indexé lors de l’affichage des scores.
 
-Résultat : ![Image2](https://user-images.githubusercontent.com/76202628/104844332-0e392500-58d0-11eb-87da-5d619231d088.jpg)
+Résultat : 
+![Image2](https://user-images.githubusercontent.com/76202628/104844332-0e392500-58d0-11eb-87da-5d619231d088.jpg)
 
 # Etape 3: Vérifier si c’est une victoire ou une partie nulle
 
