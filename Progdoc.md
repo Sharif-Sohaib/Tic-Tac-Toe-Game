@@ -13,3 +13,15 @@ Supposons que nous souhaitions
 occuper le bloc central, alors nous
 entrerons 5 dans le terminal.
 
+Cette grille peut être générée par le code:
+def board3x3(values):
+ print("\n")
+ print("\t | |")
+ print("\t {} | {} | {}".format(values[0], values[1], values[2]))
+ print('\t_____|_____|_____')
+ print("\t | |")
+ print("\t {} | {} | {}".format(values[3], values[4], values[5]))
+ print('\t_____|_____|_____')
+ print("\t | |")
+ print("\t {} | {} | {}".format(values[6], values[7], values[8]))
+ print("\t | 
