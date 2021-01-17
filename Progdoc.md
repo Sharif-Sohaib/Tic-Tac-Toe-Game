@@ -1,4 +1,5 @@
 Le Jeu:
+
 Le Morpion est un jeu à deux joueurs, qui est normalement joué sur une grille 3x3 mais peut-être aussi joué sur un 4x4 ou 5x5. Chaque joueur occupe une case par tour, avec le but de réaliser une des combinaisons gagnantes. Un premier joueur utilisera le ‘X’ comme sa marque, alors que le deuxième joueur utilisera le 'O'.
 
 Etape 1: Design du grille
