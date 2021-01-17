@@ -5,3 +5,9 @@ Etape 1: Design du grille
 
 
 ![Image1](https://user-images.githubusercontent.com/76202628/104844202-1b094900-58cf-11eb-86b7-1892568fe02b.jpg)
+Quand un joueur veut marquer une case
+particulière, il doit entrer le numéro
+correspondant indiqué dans la grille.
+Supposons que nous souhaitions
+occuper le bloc central, alors nous
+entrerons 5 dans le terminal.
