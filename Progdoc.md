@@ -44,6 +44,7 @@ draw3x3() : La condition du “draw” est assez simple, si les  neuf positions 
 À tout moment, nous avons besoin de deux informations cruciales :
 
 ●	État de la grille : Nous devons avoir une structure de données qui stocke l’état de chaque cellule, c’est-à-dire si elle est occupée ou vacante.
+
 ●	Mouvements de chaque joueur : Nous devons en quelque sorte connaître les mouvements passés et présents de chaque joueur, c’est-à-dire les positions occupées par « X » et « O ».
 
 ![Capture3](https://user-images.githubusercontent.com/76202628/104844408-50fafd00-58d0-11eb-9880-e9c7745b5918.PNG)
