@@ -8,7 +8,7 @@
 
 ## Introduction
 
-Tic tac toe is a classic game for 2 players, which includes playing with X and O marks. The two players take turns, marking the spaces in a grid (3x3, 4x4 or 5x5).
+Tic tac toe is a classic 2 player game, which includes playing with X and O marks. The two players take turns, marking the spaces in a grid (3x3, 4x4 or 5x5).
 In order to win the game, the players have to place their marks in a way where they line up in a diagonal, horizontal, or vertical row.
 
 The game was made with Python 3.5
